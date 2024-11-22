@@ -11,8 +11,8 @@ Recomputation of the cell type marker genes, as well as the disease markers base
 
 | Study             | Total Cells | Donor (control/disease) | Contrast                | Disease Cells | Control Cells | Reason |
 |-------------------|-------|-------|-------------------------|---------------|---------------|---------------|
-| Blanchard et al 2022 | 10388 | 2/6     | AD vs CT               | 7498          | 2890          | Removed (duplicated in Mathys 2019) |
-| Hardwick et al    |   15656    |    1/0   | 1 |     -          | 15656         | Removed (duplicated in Sayed et al) |
+| Blanchard et al. 2022 | 10388 | 2/6     | AD vs CT               | 7498          | 2890          | Removed (duplicated in Mathys et al. 2019) |
+| Hardwick et al. 2021   |   15656    |    1/0   | 1 |     -          | 15656         | Removed (duplicated in Sayed et al. 2021) |
 
 
 - The resulting DEGs strongly correlate with the previously reported findings:
