@@ -9,6 +9,12 @@ Recomputation of the cell type marker genes, as well as the disease markers base
 - __Blanchard et al 2022__ in further analysis we detected an non-trivial overlap between the Blanchard et al and Mathys 2019 study of ```8``` donor and ```10388``` cells, which splits into  ```7498``` AD and ```2890``` CT cells. The duplication has been confirmed by the authors on their [repository](https://github.com/djunamay/apoe4myelin). 
 - __Hardwick et al__ was removed from the database as the data is duplicated in the __Sayed et al__ study affecting a total of  ```15656``` control cells.
 
+| Study             | Total Cells | Donor (control/disease) | Contrast                | Disease Cells | Control Cells | Reason |
+|-------------------|-------|-------|-------------------------|---------------|---------------|---------------|
+| Blanchard et al. 2022 | 10388 | 2/6     | AD vs CT               | 7498          | 2890          | Removed (duplicated in Mathys et al. 2019) |
+| Hardwick et al. 2021   |   15656    |    1/0   | 1 |     -          | 15656         | Removed (duplicated in Sayed et al. 2021) |
+
+
 - The resulting DEGs strongly correlate with the previously reported findings:
 ![Mixed Sex DEGs](supplemental/mixed_sex_degs.png)
 
