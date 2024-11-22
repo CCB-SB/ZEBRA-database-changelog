@@ -18,5 +18,7 @@ Recomputation of the cell type marker genes, as well as the disease markers base
 - The resulting DEGs strongly correlate with the previously reported findings:
 ![Mixed Sex DEGs](supplemental/mixed_sex_degs.png)
 
+![Cell type marker](supplemental/cell_type_marker.png)
+
 ## ```human_noncortex```, ```mouse_cortex```, ```mouse_noncortex```
 No changes applied
