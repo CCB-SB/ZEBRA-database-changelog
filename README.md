@@ -6,7 +6,7 @@ The molecular causes and mechanisms of neurodegenerative diseases remain poorly 
 The following changes applied to the latest version of the ZEBRA database:
 ## ```human_cortex```
 - __Blanchard et al 2022__ in further analysis we detected an non-trivial overlap between the Blanchard et al and Mathys 2019 study of ```8``` donor and ```10388``` cells, which has been confirmed by the authors on their [repository](https://github.com/djunamay/apoe4myelin). We re-computed the DEGs and marker genes for the cell types for the current release
-## __Hardwick et al__ was removed from the database as the data is duplicated in the ```Sayed et al``` study.
+- __Hardwick et al__ was removed from the database as the data is duplicated in the ```Sayed et al``` study.
 
-# ```human_noncortex```, ```mouse_cortex```, ```mouse_noncortex```
+## ```human_noncortex```, ```mouse_cortex```, ```mouse_noncortex```
 No changes applied
