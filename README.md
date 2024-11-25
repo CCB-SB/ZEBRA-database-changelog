@@ -14,7 +14,7 @@ Recomputation of the cell type marker genes, as well as the disease markers base
 ## ```human_noncortex```, ```mouse_cortex```, ```mouse_noncortex```
 No changes applied
 ## ```human_cortex```
-- __Blanchard et al 2022__ in further analysis we detected an non-trivial overlap between the Blanchard et al and Mathys 2019 study of ```8``` donor and ```10388``` cells, which splits into  ```7498``` AD and ```2890``` CT cells. The duplication has been confirmed by the authors on their [repository](https://github.com/djunamay/apoe4myelin). 
+- __Blanchard et al 2022__ in further analysis we detected an non-trivial overlap between the Blanchard et al and Mathys 2019 study of ```8``` donor and ```10388``` cells, which splits into  ```7498``` AD and ```2890``` CT cells. The duplication has been confirmed by the authors on their [repository](https://github.com/djunamay/apoe4myelin) and the detected overlap was removed from the ZEBRA database. 
 - __Hardwick et al__ was removed from the database as the data is duplicated in the __Sayed et al__ study affecting a total of  ```15656``` control cells.
 
 | Study             | Total Cells | Donor (control/disease) | Contrast                | Disease Cells | Control Cells | Reason |
